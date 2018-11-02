@@ -13,6 +13,7 @@ computer. It was created for Python programs, but it can package and distribute 
 ```
 
 https://conda.io/docs/user-guide/install/windows.html
+
 https://conda.io/docs/user-guide/getting-started.html
 
 1. install conda
