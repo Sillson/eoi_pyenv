@@ -80,4 +80,4 @@ https://conda.io/docs/user-guide/getting-started.html
 5. Search for packages here https://anaconda.org/anaconda/repo and run commands to test for functionality
 6. Install packages as specified in the link in #5 of by `conda install` + the package name `conda install shapely`
 7. List all packages by typing `conda list`
-8. `pip install jupyter`
+8. `conda install jupyter`
