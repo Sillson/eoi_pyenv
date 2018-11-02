@@ -17,7 +17,7 @@ https://conda.io/docs/user-guide/install/windows.html
 https://conda.io/docs/user-guide/getting-started.html
 
 1. install conda
-2. Open up a terminal and confirm conda is installed by typing `conda --version`
+2. Open up the anaconda prompt and confirm conda is installed by typing `conda --version`
 3. Update if preferred `conda update conda`
 4. Search for packages by typing `conda search` + the package name `conda search shapely`
 5. Search for packages here https://anaconda.org/anaconda/repo and run commands to test for functionality
