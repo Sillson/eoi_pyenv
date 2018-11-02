@@ -23,6 +23,7 @@ https://conda.io/docs/user-guide/getting-started.html
 5. Search for packages here https://anaconda.org/anaconda/repo and run commands to test for functionality
 6. Install packages as specified in the link in #5 of by `conda install` + the package name `conda install shapely`
 7. List all packages by typing `conda list`
+8. `conda install jupyter`
 
 ### Binaries
 Why not download from the source? It looks like the Windows installer comes with pip, so we should be able to install packages. 
@@ -34,6 +35,7 @@ https://docs.python.org/3/using/windows.html
 2. Open up either the installed python command shell or a terminal (command prompt?)
 3. `python -V` should return a python version. 
 4. `pip install --upgrade pip` should function
+5. `pip install jupyter`
 
 ### ArcPy
 
@@ -47,6 +49,7 @@ Congratulations! If you're using a Mac, it's more likely than not you already ha
 3. Do you have `pip` installed? Try `pip install --upgrade pip`
 4. If step 3 fails, try `sudo easy_install pip`
 5. To confirm we can install packages, try `pip install pandas`
+6. `pip install jupyter`
 
 ### Homebrew Python
 Homebrew is an excellent package manager for the MacOS environment. It can handle installing Python binarys and 'shimming' their paths, so that they are the executable of choice for all of your applications. There are also packages available through Homebrew that allow us to have multiple Python binaries, and environments. Ensuring a clean work environment with every project. I recommend `pyenv`, which I'll include a link to as a bonus. 
@@ -57,6 +60,7 @@ Homebrew is an excellent package manager for the MacOS environment. It can handl
 4. Do you have `pip` installed? Try `pip install --upgrade pip`
 5. If step 3 fails, try `sudo easy_install pip`
 6. To confirm we can install packages, try `pip install pandas`
+7. `pip install jupyter`
 
 ### Conda Install
 ```
@@ -76,3 +80,4 @@ https://conda.io/docs/user-guide/getting-started.html
 5. Search for packages here https://anaconda.org/anaconda/repo and run commands to test for functionality
 6. Install packages as specified in the link in #5 of by `conda install` + the package name `conda install shapely`
 7. List all packages by typing `conda list`
+8. `pip install jupyter`
